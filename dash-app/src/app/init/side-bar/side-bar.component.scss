@@ -1,0 +1,25 @@
+.menu-button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    background-color: inherit;
+    color: white !important;
+    height: 77px;
+  
+    .mat-icon {
+      margin-right: 40px;
+      font-size: 32px;
+    }
+  
+    
+  }
+  
+  .button-text{
+      /* border: 1px solid black; */
+      padding-top: 10px;
+  }
+  
+  
+  
